@@ -1,1 +1,1 @@
-Simple proof of concept blockchain supporting write ahead logs
+Safe ground for experimenting new ideas before porting them to iotaledger/wasp repo.
