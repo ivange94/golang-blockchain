@@ -1,1 +1,1 @@
-Building a blockchain from scratch in Go following Tensor Programming Tutorial
+Simple proof of concept blockchain supporting write ahead logs
